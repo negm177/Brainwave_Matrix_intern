@@ -5,7 +5,7 @@ The project explores key business insights through data exploration, visualizati
 
 ## 📁 Project Structure
 
-- `supermarket_sales_analysis_report.ipynb` – Jupyter Notebook with full analysis and visualizations
+- `supermarket_sales_analysis_FINALVERSION.ipynb` – Jupyter Notebook with full analysis and visualizations
 - `Supermarket_Sales_Analysis_Report.docx` – Word report with written insights and charts
 - `supermarket_sales - Sheet1.csv` – Cleaned dataset used in the analysis (if available)
 
