@@ -1,39 +1,49 @@
-Emotion Analysis Project
-This project was completed as part of my internship at Brainwave Matrix Solutions.
+# Emotion Analysis from Tweets
+
+This project was completed as part of my internship at **Brainwave Matrix Solutions**.
 
 It focuses on performing emotion analysis on tweets, covering the full data science workflow:
 
-Loading and exploring the dataset
+- Loading and exploring the dataset
+- Cleaning and preprocessing text data
+- Mapping emotions into machine-readable labels
+- Visualizing sentiment distributions
+- Building and evaluating a machine learning model for emotion prediction
 
-Cleaning and preprocessing text data
+---
 
-Mapping emotions into machine-readable labels
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [How to Run](#how-to-run)
+- [Feedback](#feedback)
 
-Visualizing sentiment distributions
+---
 
-Building and evaluating a machine learning model for emotion prediction
+## Project Overview
+The goal of this project is to predict the emotion behind a tweet using traditional machine learning techniques. It includes data cleaning, exploratory analysis, sentiment mapping, visualization, and model building.
 
-Project Structure
-emotion_analysis_FINAL_FULL.ipynb: Complete notebook with clean code, comments, and explanations
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn, WordCloud
+- Scikit-learn (TF-IDF, Logistic Regression)
 
-dataset.csv: Dataset of tweets and corresponding emotions
+## Project Structure
+- `emotion_analysis_FINAL_FULL.ipynb` — Complete Jupyter Notebook with full workflow
+- `tweets_dataset.csv` — Dataset containing tweets and labeled emotions
 
-Technologies Used
-Python
+## How to Run
+1. Clone the repository
+2. Install the required libraries (as mentioned inside the notebook)
+3. Open the `emotion_analysis_FINAL_FULL.ipynb` notebook
+4. Run all the cells sequentially
 
-Pandas, NumPy
+## Feedback
+I'm open to feedback, suggestions, and comments. Always looking to learn and improve — feel free to reach out!
 
-Matplotlib, Seaborn, WordCloud
+---
 
-Scikit-learn (TF-IDF, Logistic Regression)
-
-How to Run
-Clone the repository
-
-Install the required libraries (see notebook for details)
-
-Open and run the notebook in Jupyter or Google Colab
-
-Feedback
-I'm open to feedback, questions, and suggestions — always looking to learn and improve.
-
+> **Author:** Ayman Negm  
+> **Internship:** Brainwave Matrix Solutions | April 2025
